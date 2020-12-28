@@ -1,1 +1,1 @@
-# A News website written by php
+# A News website written by PHP
